@@ -1,0 +1,104 @@
+N - AF - 2Cat K-NN
+
+i =
+
+     3
+
+
+euc_accu =
+
+    0.8544
+
+
+i =
+
+     5
+
+
+euc_accu =
+
+    0.8592
+
+
+i =
+
+     7
+
+
+euc_accu =
+
+    0.8544
+
+
+AF - O - 2Cat K-NN
+
+
+i =
+
+     3
+
+
+euc_accu =
+
+    0.8142
+
+
+i =
+
+     5
+
+
+euc_accu =
+
+    0.7788
+
+
+i =
+
+     7
+
+
+euc_accu =
+
+    0.7699
+    
+N - O - 2Cat K-NN
+
+i =
+
+     3
+
+
+euc_accu =
+
+    0.7663
+
+
+i =
+
+     5
+
+
+euc_accu =
+
+    0.7356
+
+
+i =
+
+     7
+
+
+euc_accu =
+
+    0.7395
+
+
+i =
+
+     9
+
+
+euc_accu =
+
+    0.7050
